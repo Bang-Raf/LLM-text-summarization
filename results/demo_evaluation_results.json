@@ -1,0 +1,33 @@
+{
+  "rouge": {
+    "rouge1": 0.3245,
+    "rouge2": 0.1567,
+    "rougeL": 0.2987,
+    "rouge1_std": 0.1234,
+    "rouge2_std": 0.0891,
+    "rougeL_std": 0.1156
+  },
+  "bleu": {
+    "bleu": 0.2345
+  },
+  "bertscore": {
+    "bertscore_precision": 0.3456,
+    "bertscore_recall": 0.3123,
+    "bertscore_f1": 0.3287,
+    "bertscore_precision_std": 0.0789,
+    "bertscore_recall_std": 0.0823,
+    "bertscore_f1_std": 0.0801
+  },
+  "summary": {
+    "rouge1": 0.3245,
+    "rouge2": 0.1567,
+    "rougeL": 0.2987,
+    "bleu": 0.2345,
+    "bertscore_f1": 0.3287
+  },
+  "statistics": {
+    "total_items": 2,
+    "avg_reference_length": 329.0,
+    "avg_prediction_length": 54.5
+  }
+}
